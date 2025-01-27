@@ -22,6 +22,12 @@ Take part in a future course [here!](https://datatalks.club/blog/guide-to-free-o
 * SQL: Key for querying structured databases!
 * Terraform: Used for automating infrastructure management.
 
+
+### Week 1: Blog post 💻
+
+* To read some thoughts I had whilst working through week one, as well as more detailed key learning points.
+* [Read the blog here](https://thattechdive.blogspot.com/2025/01/datatalksclub-week-1-data-engineering.html)
+  
 ***
 
 ### Week 1: Homework 📚
