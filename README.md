@@ -10,6 +10,11 @@ Take part in a future course [here!](https://datatalks.club/blog/guide-to-free-o
 
 ⤴️ ⤴️ ⤴️ ⤴️ 
 
+Expand the sections below to see key notes and homework answers.
+
+<details>
+<summary>Week 1</summary>
+  
 ## Week 1: Docker, Postgres, pgAdmin, SQL, Terraform
 
 * First week spend mostly setting up environments, loading data into the database and generally becoming familiar with the 'basics' of the tools that will be used in the course.
@@ -319,3 +324,125 @@ Answer: JFK Airport
 **Question 7️⃣: Which of the following sequences, respectively, describes the workflow for: Downloading the provider plugins and setting up backend, Generating proposed changes and auto-executing the plan, Remove all resources managed by terraform**
 
 Answer: terraform init, terraform apply -auto-approve, terraform destroy. Answer deducted by working through the tutorials/lectures.
+
+</details>
+
+<details>
+<summary>Week 2</summary>
+
+## Week 2 
+
+### Week 2: Key Learning Points ⭐
+
+### Week 2: Blog Post 💻
+
+***
+
+### Week 2: Homework 📚
+
+</details>
+
+<details>
+<summary>Week 3</summary>
+
+## Week 3 
+
+### Week 3: Key Learning Points ⭐
+
+### Week 3: Blog Post 💻
+
+***
+
+### Week 3: Homework 📚
+
+</details>
+
+<details>
+<summary>Week 3</summary>
+
+## Week 3 
+
+### Week 3: Key Learning Points ⭐
+
+### Week 3: Blog Post 💻
+
+***
+
+### Week 3: Homework 📚
+
+</details>
+
+<details>
+<summary>Week 4</summary>
+
+## Week 4 
+
+### Week 4: Key Learning Points ⭐
+
+### Week 4: Blog Post 💻
+
+***
+
+### Week 4: Homework 📚
+
+</details>
+
+<details>
+<summary>Week 5</summary>
+
+## Week 5
+
+### Week 5: Key Learning Points ⭐
+
+### Week 5: Blog Post 💻
+
+***
+
+### Week 5: Homework 📚
+
+</details>
+
+<details>
+<summary>Week 6</summary>
+
+## Week 6 
+
+### Week 6: Key Learning Points ⭐
+
+### Week 6: Blog Post 💻
+
+***
+
+### Week 6: Homework 📚
+
+</details>
+
+<details>
+<summary>Week 7</summary>
+
+## Week 7 
+
+### Week 7: Key Learning Points ⭐
+
+### Week 7: Blog Post 💻
+
+***
+
+### Week 7: Homework 📚
+
+</details>
+
+<details>
+<summary>Week 8</summary>
+
+## Week 8 
+
+### Week 8: Key Learning Points ⭐
+
+### Week 8: Blog Post 💻
+
+***
+
+### Week 8: Homework 📚
+
+</details>
